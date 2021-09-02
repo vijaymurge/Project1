@@ -3,7 +3,7 @@
 void add(int, int);
 main()
 {
-	int a, b;
+	int a, b, c;
 	printf("Enter two no");
 	scanf_s("%d %d", &a, &b);
 	add(a, b); // actual argument
