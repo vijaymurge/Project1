@@ -6,5 +6,6 @@
         Inside_City_Road(4)
         Outside_City_Road(5)
         Tunnel_Road(6)
+        parking_Road(7)
          end
 end
