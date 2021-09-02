@@ -5,6 +5,7 @@
                                        
 
 Darkness = Simulink.Parameter;
+add 3
 Darkness.Value = [];
 Darkness.CoderInfo.StorageClass = 'Auto';
 Darkness.Description = '';
